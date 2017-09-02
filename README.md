@@ -5,3 +5,4 @@ The model replications I have done include: <br />
 2. Leik, Robert K. and Barbara F. Meeker. 1995. “Computer Simulation for Exploring Theories: Models of Interpersonal Cooperation and Competition.” Sociological Perspectives 38: 463-470. <br />
 3. Thomas C. Schelling. 1978. “Thermostats, Lemons, and Other Families of Models.” Micromotives and Macrobehavior. (pgs 83-87)
 4. Thomas C. Schelling. 1978. “Micromotives and Macrobehavior.” Micromotives and Macrobehavior. (pgs 37-38)
+5. Thomas C. Schelling. 1978. “Thermostats, Lemons, and Other Families of Models.” Micromotives and Macrobehavior. (pgs 91-94, 97, 105-6)
